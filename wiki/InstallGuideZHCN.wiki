@@ -17,5 +17,5 @@ ThunderDL - 用命令行调用迅雷（精简版）<br>
 注2：如果有错误，试试执行以下命令：`regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"`<br>
 <br>
 ----
-希望你的支持我的软件！上Twitter @我吧！！！ [http://www.twitter.com/macsleena @macleena]
-Macks 7:00 PM 1/2/14
+希望你支持我的软件！上Twitter @我吧！！！ [http://www.twitter.com/macsleena @macleena]
+Macks 12:00 AM 5/5/14

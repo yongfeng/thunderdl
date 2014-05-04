@@ -1,10 +1,10 @@
 #labels Featured,install
 = Introduction =
 
-ThunderDL - 用命令行调用迅雷（简洁版）
-（需安装迅雷简洁版以及.Net Framework 4.5）
-- http://dl.xunlei.com/mini.html
-- http://www.microsoft.com/zh-cn/download/details.aspx?id=30653
+ThunderDL - 用命令行调用迅雷（简洁版）<br>
+（需安装迅雷简洁版以及.Net Framework 4.5）<br>
+- http://dl.xunlei.com/mini.html<br>
+- http://www.microsoft.com/zh-cn/download/details.aspx?id=30653<br>
 
 = Details =
 如何安装：
@@ -13,8 +13,8 @@ ThunderDL - 用命令行调用迅雷（简洁版）
  # 从命令行执行 ThunderDL.exe
  # Enjoy
 
-注：每次加入新下载项时，迅雷的窗口会短时间弹出。无需理会。
-注2：如果有错误，试试执行以下命令：regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"
+注：每次加入新下载项时，迅雷的窗口会短时间弹出。无需理会。<br>
+注2：如果有错误，试试执行以下命令：`regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"`<br>
 <br>
 ----
 希望你的支持我的软件！能翻墙就上Twitter @我吧！！！ [http://www.twitter.com/macsleena @macleena]

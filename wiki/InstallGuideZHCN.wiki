@@ -1,8 +1,8 @@
 #labels Featured,install
 = Introduction =
 
-ThunderDL - 用命令行调用迅雷（简洁版）<br>
-（需安装迅雷简洁版以及.Net Framework 4.5）<br>
+ThunderDL - 用命令行调用迅雷（精简版）<br>
+（需安装迅雷精简版以及.Net Framework 4.5）<br>
 - http://dl.xunlei.com/mini.html<br>
 - http://www.microsoft.com/zh-cn/download/details.aspx?id=30653<br>
 

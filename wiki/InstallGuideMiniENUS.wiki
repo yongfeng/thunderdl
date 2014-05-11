@@ -14,7 +14,7 @@ Installation instructions:
  # Enjoy
 
 ps. Thunder Mini window will briefly appear for each download added. Please ignore.<br>
-ps2. If you get an error, try running：`regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"`<br>
+ps2. If you get an error, try running: `regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"`<br>
 <br>
 ----
 Support my software by @me on Twitter! [http://www.twitter.com/macsleena @macleena]

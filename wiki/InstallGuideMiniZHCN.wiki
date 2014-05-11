@@ -1,3 +1,4 @@
+#labels Featured,install,mini,安装,精简版
 = Introduction =
 
 ThunderDL - 用命令行调用迅雷（精简版）<br>

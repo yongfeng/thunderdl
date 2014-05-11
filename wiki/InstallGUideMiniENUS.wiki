@@ -1,0 +1,21 @@
+#labels Featured,install,mini,english
+= Introduction =
+
+ThunderDL - command line interface for Thunder Mini<br>
+(Requires Thunder Mini and .Net Framework 4.5)<br>
+- http://dl.xunlei.com/mini.html<br>
+- http://www.microsoft.com/zh-cn/download/details.aspx?id=30653<br>
+
+= Details =
+Installation instructions:
+ # Install Thunder Mini
+ # Unzip `ThunderMini\ThunderDL.exe` into any folder
+ # Run ThunderDL.exe from command prompt
+ # Enjoy
+
+ps. Thunder Mini window will briefly appear for each download added. Please ignore.<br>
+ps2. If you get an error, try running：`regsvr32.exe "C:\Program Files (x86)\Thunder Network\MiniThunder\bho\ThunderAgent.dll"`<br>
+<br>
+----
+Support my software by @me on Twitter! [http://www.twitter.com/macsleena @macleena]
+Macks 12:00 AM 5/5/14

@@ -13,9 +13,9 @@ Installation instructions:
  # Run ThunderDL.exe from command prompt
  # Enjoy
 
-PS. Thunder VIP window will briefly appear for each download added. Please ignore.<br>
-PS2. If there's an error, try running: `regsvr32.exe "C:\Program Files (x86)\Thunder Network\Thunder\bho\ThunderAgent.dll"`<br>
-PS3. Custom save path only works when Thunder VIP is already running. This is a bug with Thunder dll.<br>
+ps. Thunder VIP window will briefly appear for each download added. Please ignore.<br>
+ps2. If there's an error, try running: `regsvr32.exe "C:\Program Files (x86)\Thunder Network\Thunder\bho\ThunderAgent.dll"`<br>
+ps3. Custom save path only works when Thunder VIP is already running. This is a bug with Thunder dll.<br>
 
 <br>
 ----

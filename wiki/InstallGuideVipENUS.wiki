@@ -1,0 +1,23 @@
+#labels Featured,install,vip,english
+= Introduction =
+
+ThunderDL - command line interface for Thunder VIP<br>
+(Requires Thunder VIP and .Net Framework 4.5)<br>
+- http://vip.xunlei.com/client/<br>
+- http://www.microsoft.com/zh-cn/download/details.aspx?id=30653<br>
+
+= Details =
+Installation instructions:
+ # Install Thunder VIP
+ # Unzip `ThunderVip\ThunderDL.exe` into any folder
+ # Run ThunderDL.exe from command prompt
+ # Enjoy
+
+PS. Thunder VIP window will briefly appear for each download added. Please ignore.<br>
+PS2. If there's an error, try running: `regsvr32.exe "C:\Program Files (x86)\Thunder Network\Thunder\bho\ThunderAgent.dll"`<br>
+PS3. Custom save path only works when Thunder VIP is already running. This is a bug with Thunder dll.<br>
+
+<br>
+----
+Support my software by @me on twitter！[http://www.twitter.com/macsleena @macleena]
+Macks 12:00 AM 11/5/14

@@ -1,21 +1,22 @@
 #labels Featured,install,vip,安装,尊享版
 = Introduction =
 
-ThunderDL - 用命令行调用迅雷（VIP尊享版）<br>
+ThunderDL - 用命令行调用迅雷VIP尊享版<br>
 （需安装迅雷VIP尊享版以及.Net Framework 4.5）<br>
 - http://vip.xunlei.com/client/<br>
 - http://www.microsoft.com/zh-cn/download/details.aspx?id=30653<br>
 
 = Details =
+
 如何安装：
  # 安装迅雷VIP尊享版
  # 将 `ThunderVip\ThunderDL.exe` 解压缩到任意文件夹
  # 从命令行执行 ThunderDL.exe
  # Enjoy
 
-注：每次加入新下载项时，迅雷的窗口会短时间弹出。无需理会。<br>
+注：每次加入新下载项时，迅雷的窗口会短时间弹出，无需理会。<br>
 注2：如果有错误，试试执行以下命令：`regsvr32.exe "C:\Program Files (x86)\Thunder Network\Thunder\bho\ThunderAgent.dll"`<br>
-注3：自定义文件路径仅在迅雷已启动状态下可用。这是迅雷dll现有的bug。<br>
+注3：自定义文件路径仅在迅雷已启动状态下可用。（这可能是迅雷dll现有的bug。）<br>
 
 <br>
 ----
